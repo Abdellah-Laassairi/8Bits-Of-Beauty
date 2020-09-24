@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 44a4f9ea256300c4d8080963fd860078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3470187548256835581
+    second: Second charachter_0
+  - first:
+      213: -4962274284278438271
+    second: Second charachter_1
+  - first:
+      213: -8095621131195269768
+    second: Second charachter_2
+  - first:
+      213: -2068657838772806484
+    second: Second charachter_3
+  - first:
+      213: -8852315037187461486
+    second: Second charachter_4
+  - first:
+      213: 5620564976829868757
+    second: Second charachter_5
+  - first:
+      213: 4832843170171602112
+    second: Second charachter_6
+  - first:
+      213: 2717970246342055123
+    second: Second charachter_7
+  - first:
+      213: -518949123889992009
+    second: Second charachter_8
+  - first:
+      213: -5853616197899036381
+    second: Second charachter_9
+  - first:
+      213: -2167297257100902891
+    second: Second charachter_10
+  - first:
+      213: 8151520369128711130
+    second: Second charachter_11
+  - first:
+      213: 4817329055189723978
+    second: Second charachter_12
+  - first:
+      213: 8005148124745393442
+    second: Second charachter_13
+  - first:
+      213: 2368200690637842527
+    second: Second charachter_14
+  - first:
+      213: 7762371208505663500
+    second: Second charachter_15
+  - first:
+      213: 5702112768860220986
+    second: Second charachter_16
+  - first:
+      213: -8731807444198099567
+    second: Second charachter_17
+  - first:
+      213: 7594135485923378613
+    second: Second charachter_18
+  - first:
+      213: -9193072341700127056
+    second: Second charachter_19
+  - first:
+      213: -6092570970789288480
+    second: Second charachter_20
+  - first:
+      213: -3879847161518241969
+    second: Second charachter_21
+  - first:
+      213: -5640207037007539241
+    second: Second charachter_22
+  - first:
+      213: 5185352163030156276
+    second: Second charachter_23
+  - first:
+      213: 459626908359258727
+    second: Second charachter_24
+  - first:
+      213: -1264478520067548652
+    second: Second charachter_25
+  - first:
+      213: 5447368104023108548
+    second: Second charachter_26
+  - first:
+      213: -2734503172629172965
+    second: Second charachter_27
+  - first:
+      213: 998499133459943289
+    second: Second charachter_28
+  - first:
+      213: -7535178826739639696
+    second: Second charachter_29
+  - first:
+      213: -7416545663192831763
+    second: Second charachter_30
+  - first:
+      213: -319554673190786521
+    second: Second charachter_31
+  - first:
+      213: -3171468042975861461
+    second: Second charachter_32
+  - first:
+      213: -299923132181469986
+    second: Second charachter_33
+  - first:
+      213: 7614244531839200330
+    second: Second charachter_34
+  - first:
+      213: 4474693353160376380
+    second: Second charachter_35
+  - first:
+      213: 5323139894887973245
+    second: Second charachter_36
+  - first:
+      213: 6859973342164545378
+    second: Second charachter_37
+  - first:
+      213: 6293997059513021478
+    second: Second charachter_38
+  - first:
+      213: -8456370624726093042
+    second: Second charachter_39
+  - first:
+      213: 8778670208772722950
+    second: Second charachter_40
+  - first:
+      213: 8644616419177699484
+    second: Second charachter_41
+  - first:
+      213: -9098701180825771350
+    second: Second charachter_42
+  - first:
+      213: 5205546375298147008
+    second: Second charachter_43
+  - first:
+      213: -4863042926414798652
+    second: Second charachter_44
+  - first:
+      213: -7344529858252548834
+    second: Second charachter_45
+  - first:
+      213: 3858832121809130975
+    second: Second charachter_46
+  - first:
+      213: 7193349713924254134
+    second: Second charachter_47
+  - first:
+      213: 7875725409498634947
+    second: Second charachter_48
+  - first:
+      213: 1284121417494977243
+    second: Second charachter_49
+  - first:
+      213: -1572724480776993375
+    second: Second charachter_50
+  - first:
+      213: -604784415970235456
+    second: Second charachter_51
+  - first:
+      213: 5621622292361062755
+    second: Second charachter_52
+  - first:
+      213: -3817474675884468337
+    second: Second charachter_53
+  - first:
+      213: 1971149266402189950
+    second: Second charachter_54
+  - first:
+      213: -5013265427559498931
+    second: Second charachter_55
+  - first:
+      213: -9077974660784892468
+    second: Second charachter_56
+  - first:
+      213: 3553830202311925781
+    second: Second charachter_57
+  - first:
+      213: 1017224131378474850
+    second: Second charachter_58
+  - first:
+      213: 3446325672118160864
+    second: Second charachter_59
+  - first:
+      213: 476853032072543401
+    second: Second charachter_60
+  - first:
+      213: 4844653484981002857
+    second: Second charachter_61
+  - first:
+      213: 2666697227476039412
+    second: Second charachter_62
+  - first:
+      213: 2417910293954723622
+    second: Second charachter_63
+  - first:
+      213: -1546649508830915444
+    second: Second charachter_64
+  - first:
+      213: -2255448042002383471
+    second: Second charachter_65
+  - first:
+      213: -8085417536335804576
+    second: Second charachter_66
+  - first:
+      213: 6350688878030079425
+    second: Second charachter_67
+  - first:
+      213: 2666505912413733441
+    second: Second charachter_68
+  - first:
+      213: -7764825836597622415
+    second: Second charachter_69
+  - first:
+      213: -6380862630040175319
+    second: Second charachter_70
+  - first:
+      213: 3156235713764919352
+    second: Second charachter_71
+  - first:
+      213: 2363861273329379529
+    second: Second charachter_72
+  - first:
+      213: 6493036582442130886
+    second: Second charachter_73
+  - first:
+      213: 1638083531922891561
+    second: Second charachter_74
+  - first:
+      213: 4319855998741364187
+    second: Second charachter_75
+  - first:
+      213: -5679382638028669001
+    second: Second charachter_76
+  - first:
+      213: 228110513980083479
+    second: Second charachter_77
+  - first:
+      213: 6367834138121600701
+    second: Second charachter_78
+  - first:
+      213: 8860644100344409652
+    second: Second charachter_79
+  - first:
+      213: -1741702014631839135
+    second: Second charachter_80
+  - first:
+      213: 1261402027063652006
+    second: Second charachter_81
+  - first:
+      213: -7837639225586309934
+    second: Second charachter_82
+  - first:
+      213: 6395588925783142595
+    second: Second charachter_83
+  - first:
+      213: 7787136415480628042
+    second: Second charachter_84
+  - first:
+      213: 3482815880896499610
+    second: Second charachter_85
+  - first:
+      213: -2242092273497780121
+    second: Second charachter_86
+  - first:
+      213: -1738860371135263851
+    second: Second charachter_87
+  - first:
+      213: 8714801902474070109
+    second: Second charachter_88
+  - first:
+      213: 2540166939818290087
+    second: Second charachter_89
+  - first:
+      213: -4772224411812495532
+    second: Second charachter_90
+  - first:
+      213: 3771696354352458171
+    second: Second charachter_91
+  - first:
+      213: -7046202088429293076
+    second: Second charachter_92
+  - first:
+      213: -7641156905550562707
+    second: Second charachter_93
+  - first:
+      213: -7798377565720905124
+    second: Second charachter_94
+  - first:
+      213: -2782815111373488762
+    second: Second charachter_95
+  - first:
+      213: -3781799332157152322
+    second: Second charachter_96
+  - first:
+      213: -2723692607294363899
+    second: Second charachter_97
+  - first:
+      213: 7817878646661420383
+    second: Second charachter_98
+  - first:
+      213: -52535219992454122
+    second: Second charachter_99
+  - first:
+      213: -3914546440510364132
+    second: Second charachter_100
+  - first:
+      213: -7181581292488343644
+    second: Second charachter_101
+  - first:
+      213: 618903031019560354
+    second: Second charachter_102
+  - first:
+      213: -8891681043933259475
+    second: Second charachter_103
+  - first:
+      213: -7966086249385262593
+    second: Second charachter_104
+  - first:
+      213: -5275746355588441381
+    second: Second charachter_105
+  - first:
+      213: -3892874085038575531
+    second: Second charachter_106
+  - first:
+      213: 4640447013056829716
+    second: Second charachter_107
+  - first:
+      213: 8037246740244303932
+    second: Second charachter_108
+  - first:
+      213: 1796772603794765707
+    second: Second charachter_109
+  - first:
+      213: -2787387912756996235
+    second: Second charachter_110
+  - first:
+      213: 6067438710889939211
+    second: Second charachter_111
+  - first:
+      213: 6167241474015124470
+    second: Second charachter_112
+  - first:
+      213: 4765514406801158848
+    second: Second charachter_113
+  - first:
+      213: -831866055498645535
+    second: Second charachter_114
+  - first:
+      213: 9093047809907689718
+    second: Second charachter_115
+  - first:
+      213: -7063221820801244168
+    second: Second charachter_116
+  - first:
+      213: 4473436651351949454
+    second: Second charachter_117
+  - first:
+      213: 8338013652562051878
+    second: Second charachter_118
+  - first:
+      213: -4447257270366499093
+    second: Second charachter_119
+  - first:
+      213: -7983912025509721251
+    second: Second charachter_120
+  - first:
+      213: 7144593706221799009
+    second: Second charachter_121
+  - first:
+      213: 722444881970333267
+    second: Second charachter_122
+  - first:
+      213: -8361100829212178463
+    second: Second charachter_123
+  - first:
+      213: -4911742937760179145
+    second: Second charachter_124
+  - first:
+      213: 552547664544916891
+    second: Second charachter_125
+  - first:
+      213: 587547592601322756
+    second: Second charachter_126
+  - first:
+      213: 2639085169434554162
+    second: Second charachter_127
+  - first:
+      213: -8844054757679593690
+    second: Second charachter_128
+  - first:
+      213: -6545107407258573402
+    second: Second charachter_129
+  - first:
+      213: 4878414153241835672
+    second: Second charachter_130
+  - first:
+      213: -4530206343811706499
+    second: Second charachter_131
+  - first:
+      213: 4496176873762637464
+    second: Second charachter_132
+  - first:
+      213: -3584231699447527296
+    second: Second charachter_133
+  - first:
+      213: 8099957180017466924
+    second: Second charachter_134
+  - first:
+      213: -582987539727291370
+    second: Second charachter_135
+  - first:
+      213: 2356302727063116357
+    second: Second charachter_136
+  - first:
+      213: -6027826435200424117
+    second: Second charachter_137
+  - first:
+      213: 8497247840117398454
+    second: Second charachter_138
+  - first:
+      213: 5886594234502439266
+    second: Second charachter_139
+  - first:
+      213: 953517427019564471
+    second: Second charachter_140
+  - first:
+      213: 5794699300023843098
+    second: Second charachter_141
+  - first:
+      213: 5026126064069201265
+    second: Second charachter_142
+  - first:
+      213: 5989492624630854396
+    second: Second charachter_143
+  - first:
+      213: -4385797857217628628
+    second: Second charachter_144
+  - first:
+      213: 2790564807676735681
+    second: Second charachter_145
+  - first:
+      213: 3297899285013330328
+    second: Second charachter_146
+  - first:
+      213: 2467335823664843600
+    second: Second charachter_147
+  - first:
+      213: 4403817827069507142
+    second: Second charachter_148
+  - first:
+      213: -5066218669553724797
+    second: Second charachter_149
+  - first:
+      213: -6428325844907877830
+    second: Second charachter_150
+  - first:
+      213: -2506565423401834198
+    second: Second charachter_151
+  - first:
+      213: 8106919341574503553
+    second: Second charachter_152
+  - first:
+      213: -6096272583365029159
+    second: Second charachter_153
+  - first:
+      213: -7630705078259542094
+    second: Second charachter_154
+  - first:
+      213: 9077181177090410912
+    second: Second charachter_155
+  - first:
+      213: 4441748177680879486
+    second: Second charachter_156
+  - first:
+      213: -7019679234210133623
+    second: Second charachter_157
+  - first:
+      213: 5273658856027034180
+    second: Second charachter_158
+  - first:
+      213: 988987666443430458
+    second: Second charachter_159
+  - first:
+      213: 2805877337067714138
+    second: Second charachter_160
+  - first:
+      213: -4950067770640967700
+    second: Second charachter_161
+  - first:
+      213: -2691670500295333495
+    second: Second charachter_162
+  - first:
+      213: 824781507382174741
+    second: Second charachter_163
+  - first:
+      213: 5469391055861828867
+    second: Second charachter_164
+  - first:
+      213: 5141788202234297372
+    second: Second charachter_165
+  - first:
+      213: -4346760234252176699
+    second: Second charachter_166
+  - first:
+      213: 5555602814643991979
+    second: Second charachter_167
+  - first:
+      213: 6716707270024082753
+    second: Second charachter_168
+  - first:
+      213: 2390479136158953043
+    second: Second charachter_169
+  - first:
+      213: -7141486790920117332
+    second: Second charachter_170
+  - first:
+      213: 3271291023155281504
+    second: Second charachter_171
+  - first:
+      213: 6281810040016388445
+    second: Second charachter_172
+  - first:
+      213: 8859483306152355811
+    second: Second charachter_173
+  - first:
+      213: 3685875071181417044
+    second: Second charachter_174
+  - first:
+      213: -4666879148304487428
+    second: Second charachter_175
+  - first:
+      213: 8182486563581941124
+    second: Second charachter_176
+  - first:
+      213: -7316904019439076710
+    second: Second charachter_177
+  - first:
+      213: 5495412468810278758
+    second: Second charachter_178
+  - first:
+      213: -889987230008229015
+    second: Second charachter_179
+  - first:
+      213: -1433482803960729310
+    second: Second charachter_180
+  - first:
+      213: 3080500119695749539
+    second: Second charachter_181
+  - first:
+      213: -8087056557390891885
+    second: Second charachter_182
+  - first:
+      213: -633842016680994369
+    second: Second charachter_183
+  - first:
+      213: -4690836842281421179
+    second: Second charachter_184
+  - first:
+      213: -7580402763719306951
+    second: Second charachter_185
+  - first:
+      213: -3978388024003540252
+    second: Second charachter_186
+  - first:
+      213: -1145293328253582776
+    second: Second charachter_187
+  - first:
+      213: 5729754692253812835
+    second: Second charachter_188
+  - first:
+      213: 4058137042052660109
+    second: Second charachter_189
+  - first:
+      213: 8962967337323599200
+    second: Second charachter_190
+  - first:
+      213: 546890704015411535
+    second: Second charachter_191
+  - first:
+      213: -5238764623821803947
+    second: Second charachter_192
+  - first:
+      213: -7252860689927379405
+    second: Second charachter_193
+  - first:
+      213: -516364667542048654
+    second: Second charachter_194
+  - first:
+      213: 7079160697341461960
+    second: Second charachter_195
+  - first:
+      213: -5838530910666693059
+    second: Second charachter_196
+  - first:
+      213: -1677639937729703465
+    second: Second charachter_197
+  - first:
+      213: 3419583662132981917
+    second: Second charachter_198
+  - first:
+      213: -2923619578560279857
+    second: Second charachter_199
+  - first:
+      213: -6135561908888458338
+    second: Second charachter_200
+  - first:
+      213: 8611874740749815093
+    second: Second charachter_201
+  - first:
+      213: 2484601125728661905
+    second: Second charachter_202
+  - first:
+      213: 346704824100355112
+    second: Second charachter_203
+  - first:
+      213: 1268227343982518863
+    second: Second charachter_204
+  - first:
+      213: -8201823420505289649
+    second: Second charachter_205
+  - first:
+      213: -3654041320063306507
+    second: Second charachter_206
+  - first:
+      213: -6534109762330942404
+    second: Second charachter_207
+  - first:
+      213: -1475106752226371287
+    second: Second charachter_208
+  - first:
+      213: 1710794831823168654
+    second: Second charachter_209
+  - first:
+      213: -6861672076967034640
+    second: Second charachter_210
+  - first:
+      213: -1172685183334623126
+    second: Second charachter_0
+  - first:
+      213: -8942017965444965779
+    second: Second charachter_1
+  - first:
+      213: 6579484900094252521
+    second: Second charachter_2
+  - first:
+      213: 6336156660822550524
+    second: Second charachter_3
+  - first:
+      213: -1629854274808428858
+    second: Second charachter_4
+  - first:
+      213: -7676604087256925277
+    second: Second charachter_5
+  - first:
+      213: 9115731666211531816
+    second: Second charachter_6
+  - first:
+      213: 1371155735493511637
+    second: Second charachter_7
+  - first:
+      213: -4551810914671121526
+    second: Second charachter_8
+  - first:
+      213: 5991026348174759372
+    second: Second charachter_9
+  - first:
+      213: -2901108600466172235
+    second: Second charachter_10
+  - first:
+      213: 8462122713201830576
+    second: Second charachter_11
+  - first:
+      213: -4485320675637769581
+    second: Second charachter_12
+  - first:
+      213: 7454137778412437097
+    second: Second charachter_13
+  - first:
+      213: 2779215382145703154
+    second: Second charachter_14
+  - first:
+      213: 8354882287658910815
+    second: Second charachter_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Second charachter_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 869
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68d9f5f909c9bfe0800000000000000
+      internalID: -1172685183334623126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 847
+        width: 187
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6add7a890297e380800000000000000
+      internalID: -8942017965444965779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 869
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e51a2338a60f4b50800000000000000
+      internalID: 6579484900094252521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_3
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 847
+        width: 187
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ad81a9ec8ee750800000000000000
+      internalID: 6336156660822550524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 583
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c644622c289169e0800000000000000
+      internalID: -1629854274808428858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 572
+        width: 187
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3db94149377590800000000000000
+      internalID: -7676604087256925277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 583
+        width: 187
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c615837a5918e70800000000000000
+      internalID: 9115731666211531816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 572
+        width: 187
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d984d170e2570310800000000000000
+      internalID: 1371155735493511637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 308
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2842f618b4d0c0800000000000000
+      internalID: -4551810914671121526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 297
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc556fac8b6642350800000000000000
+      internalID: 5991026348174759372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 308
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6126e39113db7d0800000000000000
+      internalID: -2901108600466172235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 297
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae82ef5cf7f6570800000000000000
+      internalID: 8462122713201830576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a45e81c90f0c1c0800000000000000
+      internalID: -4485320675637769581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb715d0da627760800000000000000
+      internalID: 7454137778412437097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 11
+        width: 154
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc98174aa1c19620800000000000000
+      internalID: 2779215382145703154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Second charachter_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 11
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54cc10bc2182f370800000000000000
+      internalID: 8354882287658910815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

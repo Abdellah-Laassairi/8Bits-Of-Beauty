@@ -1,0 +1,3614 @@
+fileFormatVersion: 2
+guid: 62b1c389b31d22445a0f789d402b53e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 546212111079897081
+    second: Snowdin tiles_0
+  - first:
+      213: 8936446048970822436
+    second: Snowdin tiles_1
+  - first:
+      213: -8145284490348902362
+    second: Snowdin tiles_2
+  - first:
+      213: -217632949846412931
+    second: Snowdin tiles_3
+  - first:
+      213: 5427582374547987257
+    second: Snowdin tiles_4
+  - first:
+      213: -4390342049846535972
+    second: Snowdin tiles_5
+  - first:
+      213: -6723355359753434321
+    second: Snowdin tiles_6
+  - first:
+      213: 4493831955719144403
+    second: Snowdin tiles_7
+  - first:
+      213: -7961553134816656859
+    second: Snowdin tiles_8
+  - first:
+      213: 5423720877957067747
+    second: Snowdin tiles_9
+  - first:
+      213: -7461542981031150896
+    second: Snowdin tiles_10
+  - first:
+      213: -2001761216830245053
+    second: Snowdin tiles_11
+  - first:
+      213: 7750373717608271108
+    second: Snowdin tiles_12
+  - first:
+      213: -8617217256263665129
+    second: Snowdin tiles_13
+  - first:
+      213: -1708721149330307517
+    second: Snowdin tiles_14
+  - first:
+      213: 4833531149445491440
+    second: Snowdin tiles_15
+  - first:
+      213: 1781338491090872518
+    second: Snowdin tiles_16
+  - first:
+      213: -2024919881691223539
+    second: Snowdin tiles_17
+  - first:
+      213: 2861373528292672899
+    second: Snowdin tiles_18
+  - first:
+      213: -5072432908495694673
+    second: Snowdin tiles_19
+  - first:
+      213: 3892096954143642883
+    second: Snowdin tiles_20
+  - first:
+      213: 6491258872765345846
+    second: Snowdin tiles_21
+  - first:
+      213: -8980367397331095836
+    second: Snowdin tiles_22
+  - first:
+      213: -4660328540091956696
+    second: Snowdin tiles_23
+  - first:
+      213: 2539481893574787349
+    second: Snowdin tiles_24
+  - first:
+      213: -2453969675932799878
+    second: Snowdin tiles_25
+  - first:
+      213: 4020129132896876308
+    second: Snowdin tiles_26
+  - first:
+      213: 3310449549173534872
+    second: Snowdin tiles_27
+  - first:
+      213: -1635697434634569306
+    second: Snowdin tiles_28
+  - first:
+      213: 3943072366802261964
+    second: Snowdin tiles_29
+  - first:
+      213: -4119894453383724966
+    second: Snowdin tiles_30
+  - first:
+      213: -6547327951571308979
+    second: Snowdin tiles_31
+  - first:
+      213: -7274024120552056484
+    second: Snowdin tiles_32
+  - first:
+      213: 7807572229768722485
+    second: Snowdin tiles_33
+  - first:
+      213: -8680809032201413578
+    second: Snowdin tiles_34
+  - first:
+      213: 2320489004845928785
+    second: Snowdin tiles_35
+  - first:
+      213: 4303811922701904836
+    second: Snowdin tiles_36
+  - first:
+      213: -6673545229385137150
+    second: Snowdin tiles_37
+  - first:
+      213: -7052565390550958027
+    second: Snowdin tiles_38
+  - first:
+      213: 4454686802867133445
+    second: Snowdin tiles_39
+  - first:
+      213: 7226970796039696159
+    second: Snowdin tiles_40
+  - first:
+      213: -4253075397504843408
+    second: Snowdin tiles_41
+  - first:
+      213: 8797432055890947767
+    second: Snowdin tiles_42
+  - first:
+      213: 5792255194473259027
+    second: Snowdin tiles_43
+  - first:
+      213: -1268246502382328135
+    second: Snowdin tiles_44
+  - first:
+      213: 8603137898462017698
+    second: Snowdin tiles_45
+  - first:
+      213: -6760551834250269397
+    second: Snowdin tiles_46
+  - first:
+      213: -1927350651664508815
+    second: Snowdin tiles_47
+  - first:
+      213: 6100119442852678105
+    second: Snowdin tiles_48
+  - first:
+      213: 4130653698519979805
+    second: Snowdin tiles_49
+  - first:
+      213: 701209541490211110
+    second: Snowdin tiles_50
+  - first:
+      213: 6581457114260079620
+    second: Snowdin tiles_51
+  - first:
+      213: 2291212720569510040
+    second: Snowdin tiles_52
+  - first:
+      213: 1774407010496950116
+    second: Snowdin tiles_53
+  - first:
+      213: -1767298749908537207
+    second: Snowdin tiles_54
+  - first:
+      213: -7247543397336172782
+    second: Snowdin tiles_55
+  - first:
+      213: 8502171550027939685
+    second: Snowdin tiles_56
+  - first:
+      213: 1998669054568354736
+    second: Snowdin tiles_57
+  - first:
+      213: 1281726647426300390
+    second: Snowdin tiles_58
+  - first:
+      213: 961433591014245144
+    second: Snowdin tiles_59
+  - first:
+      213: 5817826527159116885
+    second: Snowdin tiles_60
+  - first:
+      213: 1421954044309510450
+    second: Snowdin tiles_61
+  - first:
+      213: 7845610897158073140
+    second: Snowdin tiles_62
+  - first:
+      213: 5725974639430708218
+    second: Snowdin tiles_63
+  - first:
+      213: -8753130427898533602
+    second: Snowdin tiles_64
+  - first:
+      213: 2498038178647134177
+    second: Snowdin tiles_65
+  - first:
+      213: 4850278016035274683
+    second: Snowdin tiles_66
+  - first:
+      213: -7912069494061446806
+    second: Snowdin tiles_67
+  - first:
+      213: -7967314404576911783
+    second: Snowdin tiles_68
+  - first:
+      213: 8623144433514359381
+    second: Snowdin tiles_69
+  - first:
+      213: 654633630609152861
+    second: Snowdin tiles_70
+  - first:
+      213: -3681653493464365926
+    second: Snowdin tiles_71
+  - first:
+      213: 3137694167599066977
+    second: Snowdin tiles_72
+  - first:
+      213: 3031313225625712031
+    second: Snowdin tiles_73
+  - first:
+      213: 3015362984199612986
+    second: Snowdin tiles_74
+  - first:
+      213: -7484704575995244708
+    second: Snowdin tiles_75
+  - first:
+      213: -4234549386339776008
+    second: Snowdin tiles_76
+  - first:
+      213: 6849097745250683832
+    second: Snowdin tiles_77
+  - first:
+      213: -8145225406661331681
+    second: Snowdin tiles_78
+  - first:
+      213: 1592915711842919264
+    second: Snowdin tiles_79
+  - first:
+      213: 6261794803770104512
+    second: Snowdin tiles_80
+  - first:
+      213: 1316162228833567388
+    second: Snowdin tiles_81
+  - first:
+      213: 4938227151420577442
+    second: Snowdin tiles_82
+  - first:
+      213: -4239689750964046819
+    second: Snowdin tiles_83
+  - first:
+      213: 9183251446807779529
+    second: Snowdin tiles_84
+  - first:
+      213: -2459437529725552133
+    second: Snowdin tiles_85
+  - first:
+      213: -6350040341529274732
+    second: Snowdin tiles_86
+  - first:
+      213: 1178249041259021191
+    second: Snowdin tiles_87
+  - first:
+      213: -7803360664982446676
+    second: Snowdin tiles_88
+  - first:
+      213: 5585356547483051387
+    second: Snowdin tiles_89
+  - first:
+      213: -1416437042937599593
+    second: Snowdin tiles_90
+  - first:
+      213: 2127292159347256055
+    second: Snowdin tiles_91
+  - first:
+      213: -3702621149306893569
+    second: Snowdin tiles_92
+  - first:
+      213: 610381763105447718
+    second: Snowdin tiles_93
+  - first:
+      213: -5718872700584930866
+    second: Snowdin tiles_94
+  - first:
+      213: -2165863330017963877
+    second: Snowdin tiles_95
+  - first:
+      213: 4180138187743871749
+    second: Snowdin tiles_96
+  - first:
+      213: -7832889182442683518
+    second: Snowdin tiles_97
+  - first:
+      213: 1781527182439775928
+    second: Snowdin tiles_98
+  - first:
+      213: 8456821674386545422
+    second: Snowdin tiles_99
+  - first:
+      213: -4653451405651903357
+    second: Snowdin tiles_100
+  - first:
+      213: -9026518667124467128
+    second: Snowdin tiles_101
+  - first:
+      213: 4500321490647554272
+    second: Snowdin tiles_102
+  - first:
+      213: -6307800048821969349
+    second: Snowdin tiles_103
+  - first:
+      213: 5647432220466455951
+    second: Snowdin tiles_104
+  - first:
+      213: -8083073495868091609
+    second: Snowdin tiles_105
+  - first:
+      213: -118664631433739927
+    second: Snowdin tiles_106
+  - first:
+      213: -2761735948280961356
+    second: Snowdin tiles_107
+  - first:
+      213: -3859579050677125699
+    second: Snowdin tiles_108
+  - first:
+      213: 3058538620451003266
+    second: Snowdin tiles_109
+  - first:
+      213: -2080458387497057482
+    second: Snowdin tiles_110
+  - first:
+      213: -337875175235530452
+    second: Snowdin tiles_111
+  - first:
+      213: -6870955930826107591
+    second: Snowdin tiles_112
+  - first:
+      213: -5922285678609365926
+    second: Snowdin tiles_113
+  - first:
+      213: -4375411890599599236
+    second: Snowdin tiles_114
+  - first:
+      213: -9087379423095638142
+    second: Snowdin tiles_115
+  - first:
+      213: 6627026671991591881
+    second: Snowdin tiles_116
+  - first:
+      213: 1306190837671152629
+    second: Snowdin tiles_117
+  - first:
+      213: -5324463642938966237
+    second: Snowdin tiles_118
+  - first:
+      213: 6342988037460422455
+    second: Snowdin tiles_119
+  - first:
+      213: 6746079697759263925
+    second: Snowdin tiles_120
+  - first:
+      213: 4001059109304814428
+    second: Snowdin tiles_121
+  - first:
+      213: 4902197386835943286
+    second: Snowdin tiles_122
+  - first:
+      213: -3027211121316563204
+    second: Snowdin tiles_123
+  - first:
+      213: -5509253723750801952
+    second: Snowdin tiles_124
+  - first:
+      213: 6681201129033214764
+    second: Snowdin tiles_125
+  - first:
+      213: 8881496668291804007
+    second: Snowdin tiles_126
+  - first:
+      213: 2523715707615899816
+    second: Snowdin tiles_127
+  - first:
+      213: -1037945532000214561
+    second: Snowdin tiles_128
+  - first:
+      213: 7967555771656662578
+    second: Snowdin tiles_129
+  - first:
+      213: 8275703107010987134
+    second: Snowdin tiles_130
+  - first:
+      213: -2152314702159593454
+    second: Snowdin tiles_131
+  - first:
+      213: -3160407549807404519
+    second: Snowdin tiles_132
+  - first:
+      213: -1887128052692060783
+    second: Snowdin tiles_133
+  - first:
+      213: 7611600787887109534
+    second: Snowdin tiles_134
+  - first:
+      213: 5318213689629477550
+    second: Snowdin tiles_135
+  - first:
+      213: -2535993615765744091
+    second: Snowdin tiles_136
+  - first:
+      213: -1916118048116268497
+    second: Snowdin tiles_137
+  - first:
+      213: -2719948244017641617
+    second: Snowdin tiles_138
+  - first:
+      213: -8726264530780211088
+    second: Snowdin tiles_139
+  - first:
+      213: -1186020715754631469
+    second: Snowdin tiles_140
+  - first:
+      213: -8857639579801288464
+    second: Snowdin tiles_141
+  - first:
+      213: -8551164224411941158
+    second: Snowdin tiles_142
+  - first:
+      213: -8177336604804541097
+    second: Snowdin tiles_143
+  - first:
+      213: -1589808467578215135
+    second: Snowdin tiles_144
+  - first:
+      213: -6315624614354225283
+    second: Snowdin tiles_145
+  - first:
+      213: -5485163490547130792
+    second: Snowdin tiles_146
+  - first:
+      213: -6296601060315976617
+    second: Snowdin tiles_147
+  - first:
+      213: 3163470802247852947
+    second: Snowdin tiles_148
+  - first:
+      213: -3529102216646610445
+    second: Snowdin tiles_149
+  - first:
+      213: 7852887522159845215
+    second: Snowdin tiles_150
+  - first:
+      213: 505453956668557171
+    second: Snowdin tiles_151
+  - first:
+      213: 8979137072194997826
+    second: Snowdin tiles_152
+  - first:
+      213: -3927368629147672868
+    second: Snowdin tiles_153
+  - first:
+      213: 6662746697919068821
+    second: Snowdin tiles_154
+  - first:
+      213: 3155019964216423952
+    second: Snowdin tiles_155
+  - first:
+      213: 2686049745738398083
+    second: Snowdin tiles_156
+  - first:
+      213: -8563604288783259467
+    second: Snowdin tiles_157
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snowdin tiles_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 920
+        width: 66
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628414e59e226fe80800000000000000
+      internalID: -8145284490348902362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 892
+        width: 80
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fbf43cffcafcf0800000000000000
+      internalID: -217632949846412931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1080
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9a10c965a25b40800000000000000
+      internalID: 5427582374547987257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8df6caa2f5213c0800000000000000
+      internalID: -4390342049846535972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1123
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8d231ce7d1b2a0800000000000000
+      internalID: -6723355359753434321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_7
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1123
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d340f8ba5c4d5e30800000000000000
+      internalID: 4493831955719144403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1123
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5220bd22b91e28190800000000000000
+      internalID: -7961553134816656859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1123
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33083076de44b40800000000000000
+      internalID: 5423720877957067747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_10
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1123
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da34531136437890800000000000000
+      internalID: -7461542981031150896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1119
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347fda177c05834e0800000000000000
+      internalID: -2001761216830245053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1117
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d809a35dbde8b60800000000000000
+      internalID: 7750373717608271108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_13
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1117
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab908bf8e796880800000000000000
+      internalID: -8617217256263665129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1078
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34648f9fa276948e0800000000000000
+      internalID: -1708721149330307517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faeb75a8f6241340800000000000000
+      internalID: 4833531149445491440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a3327be598b810800000000000000
+      internalID: 1781338491090872518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2b29981a06e3e0800000000000000
+      internalID: -2024919881691223539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_18
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38547935014a5b720800000000000000
+      internalID: 2861373528292672899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_19
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1097
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4dc1605291b99b0800000000000000
+      internalID: -5072432908495694673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1097
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059c1ffe81830630800000000000000
+      internalID: 3892096954143642883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1097
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f7487d85951a50800000000000000
+      internalID: 6491258872765345846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_22
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1097
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea491ae635f5380800000000000000
+      internalID: -8980367397331095836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_23
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1099
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822443f52ef235fb0800000000000000
+      internalID: -4660328540091956696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_24
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1097
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511cf04d35d0e3320800000000000000
+      internalID: 2539481893574787349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_25
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1088
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce178d49fb1fdd0800000000000000
+      internalID: -2453969675932799878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_26
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1086
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177485952e5ac730800000000000000
+      internalID: 4020129132896876308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_27
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1078
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903751535411fd20800000000000000
+      internalID: 3310449549173534872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_28
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1078
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b69879d5dc49e0800000000000000
+      internalID: -1635697434634569306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_29
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1078
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc758e22d6b98b630800000000000000
+      internalID: 3943072366802261964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_30
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1078
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5006f1a2d133d6c0800000000000000
+      internalID: -4119894453383724966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_31
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1022
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2b92dae73325a0800000000000000
+      internalID: -6547327951571308979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_32
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1022
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c591fde0a997d0b90800000000000000
+      internalID: -7274024120552056484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_33
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1022
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b191a3911a5c60800000000000000
+      internalID: 7807572229768722485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_34
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1086
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd1a89d22978780800000000000000
+      internalID: -8680809032201413578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_35
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1029
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1519a079478043020800000000000000
+      internalID: 2320489004845928785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1043
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbecb024263abb30800000000000000
+      internalID: 4303811922701904836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1061
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040ff9c8fdc263a0800000000000000
+      internalID: -6673545229385137150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1068
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300ff4b421402e90800000000000000
+      internalID: -7052565390550958027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_39
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1050
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c14869b0a32dd30800000000000000
+      internalID: 4454686802867133445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_40
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1022
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f611c16ab5b4460800000000000000
+      internalID: 7226970796039696159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_41
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1022
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07145c0b57a0af4c0800000000000000
+      internalID: -4253075397504843408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_42
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1022
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea30318d1c61a70800000000000000
+      internalID: 8797432055890947767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 971
+        width: 23
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6aed98688466ee0800000000000000
+      internalID: -1268246502382328135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_45
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1041
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87787565c746770800000000000000
+      internalID: 8603137898462017698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_46
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1029
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da5e9fce1bd22a0800000000000000
+      internalID: -6760551834250269397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_47
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785be93bcca045e0800000000000000
+      internalID: -1927350651664508815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d900be305af7a450800000000000000
+      internalID: 6100119442852678105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17df6657a7035930800000000000000
+      internalID: 4130653698519979805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_50
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62973a1ec523bb900800000000000000
+      internalID: 701209541490211110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_51
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40480f71068065b50800000000000000
+      internalID: 6581457114260079620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_52
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e66a74d50ccf10800000000000000
+      internalID: 2291212720569510040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_53
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1034
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f22ab56c5ff9810800000000000000
+      internalID: 1774407010496950116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_54
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1034
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b5b7862b4977e0800000000000000
+      internalID: -1767298749908537207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_55
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1034
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217bc83edad8b6b90800000000000000
+      internalID: -7247543397336172782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1030
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff8d27af7cdf570800000000000000
+      internalID: 8502171550027939685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_57
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1030
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3dc1d6ae2bcbb10800000000000000
+      internalID: 1998669054568354736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_58
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 954
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93ffe489b99c110800000000000000
+      internalID: 1281726647426300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_59
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 954
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134883d1c2b75d00800000000000000
+      internalID: 961433591014245144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 954
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e92cf6621db050800000000000000
+      internalID: 5817826527159116885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_61
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1023
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399ff16babcbb310800000000000000
+      internalID: 1421954044309510450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_62
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 972
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6a0b0b8531ec60800000000000000
+      internalID: 7845610897158073140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_63
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 968
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba928d89fb67f40800000000000000
+      internalID: 5725974639430708218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_64
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 941
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e17c7042a68680800000000000000
+      internalID: -8753130427898533602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 961
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef40a10d70daa220800000000000000
+      internalID: 2498038178647134177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_66
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 961
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf3baf5826af4340800000000000000
+      internalID: 4850278016035274683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_67
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 986
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69434017bea23290800000000000000
+      internalID: -7912069494061446806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_68
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 945
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e175df2c96e6190800000000000000
+      internalID: -7967314404576911783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa286cc209ba770800000000000000
+      internalID: 8623144433514359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_70
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 970
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9b7291d9b51900800000000000000
+      internalID: 654633630609152861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_72
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 925
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fae81a8345b8b20800000000000000
+      internalID: 3137694167599066977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_73
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 925
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953d507153611a20800000000000000
+      internalID: 3031313225625712031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_74
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 923
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a641678a8b8d920800000000000000
+      internalID: 3015362984199612986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_75
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 923
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f001308dcf02890800000000000000
+      internalID: -7484704575995244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_76
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 923
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98e5bc4cbdb35c0800000000000000
+      internalID: -4234549386339776008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_77
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 923
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb88997c12ec0f50800000000000000
+      internalID: 6849097745250683832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_78
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 916
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f67cd5a856fe80800000000000000
+      internalID: -8145225406661331681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_79
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 916
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632989766c2b1610800000000000000
+      internalID: 1592915711842919264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_80
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 929
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9a17923d56e650800000000000000
+      internalID: 6261794803770104512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_81
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 941
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924964e292f34210800000000000000
+      internalID: 1316162228833567388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 929
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6dc9c2e6b188440800000000000000
+      internalID: 4938227151420577442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_83
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 929
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d147ce362a89925c0800000000000000
+      internalID: -4239689750964046819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_84
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 925
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d1123986717f70800000000000000
+      internalID: 9183251446807779529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_85
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 928
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b17de8925eddd0800000000000000
+      internalID: -2459437529725552133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_86
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 932
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965fbd04ff10e7a0800000000000000
+      internalID: -6350040341529274732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_87
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 933
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7834039a24bf95010800000000000000
+      internalID: 1178249041259021191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_88
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 933
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad1775b1d4e4b390800000000000000
+      internalID: -7803360664982446676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 927
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7521acff2c238d40800000000000000
+      internalID: 5585356547483051387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_90
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 932
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799eff8930ec75ce0800000000000000
+      internalID: -1416437042937599593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_91
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 934
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faed53b2f8a58d10800000000000000
+      internalID: 2127292159347256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_92
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 864
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffac6b99ea5ad9cc0800000000000000
+      internalID: -3702621149306893569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_93
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 899
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd647caf2887800800000000000000
+      internalID: 610381763105447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_94
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 919
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d4f5249b72a0b0800000000000000
+      internalID: -5718872700584930866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_95
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 919
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901c3ec6ce41f1e0800000000000000
+      internalID: -2165863330017963877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_96
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 917
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c480d885d20a30800000000000000
+      internalID: 4180138187743871749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_97
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 870
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283018bf9ccfb4390800000000000000
+      internalID: -7832889182442683518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_98
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 899
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7603988149b810800000000000000
+      internalID: 1781527182439775928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_99
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 899
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b52a6b18aac5570800000000000000
+      internalID: 8456821674386545422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_100
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 899
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c73920a9e9b6fb0800000000000000
+      internalID: -4653451405651903357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_101
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 877
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1d97c81d5bb280800000000000000
+      internalID: -9026518667124467128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_102
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 882
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89a115d8a547e30800000000000000
+      internalID: 4500321490647554272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_103
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 882
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e56c796413678a0800000000000000
+      internalID: -6307800048821969349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_104
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 882
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85aff1eea5bf5e40800000000000000
+      internalID: 5647432220466455951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_105
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 882
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72358614b7723df80800000000000000
+      internalID: -8083073495868091609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_106
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 865
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614dfb752b6a5ef0800000000000000
+      internalID: -118664631433739927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_107
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 865
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6694f89c75ca9d0800000000000000
+      internalID: -2761735948280961356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_108
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 865
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb9d56d45007ac0800000000000000
+      internalID: -3859579050677125699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_109
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 865
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9bc3abac127a20800000000000000
+      internalID: 3058538620451003266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_110
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 723
+        width: 312
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633814b8e1ab023e0800000000000000
+      internalID: -2080458387497057482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_111
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 696
+        width: 212
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d9a97150af4bf0800000000000000
+      internalID: -337875175235530452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_112
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 725
+        width: 248
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9351fbb1cf575a0a0800000000000000
+      internalID: -6870955930826107591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 640
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b03bcf8423e180800000000000000
+      internalID: -9087379423095638142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_119
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 519
+        width: 212
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f61637302d60850800000000000000
+      internalID: 6342988037460422455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_120
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 567
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5a6b2eb3ee9d50800000000000000
+      internalID: 6746079697759263925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_121
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 567
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4477bf0e968730800000000000000
+      internalID: 4001059109304814428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_122
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 567
+        width: 78
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5435ec8a180440800000000000000
+      internalID: 4902197386835943286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_123
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 644
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf670d5268f2df5d0800000000000000
+      internalID: -3027211121316563204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_124
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 580
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd5527de23b83b0800000000000000
+      internalID: -5509253723750801952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 580
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba6f0470568bc50800000000000000
+      internalID: 6681201129033214764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_127
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 604
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f48a901a060320800000000000000
+      internalID: 2523715707615899816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_128
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 604
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16ce4b90a7891f0800000000000000
+      internalID: -1037945532000214561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_130
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 567
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748cf7112439d270800000000000000
+      internalID: 8275703107010987134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_133
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 544
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957d95d8039fc5e0800000000000000
+      internalID: -1887128052692060783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_134
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 544
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95381ea696d1a960800000000000000
+      internalID: 7611600787887109534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_135
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 544
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0cf17c271ec940800000000000000
+      internalID: 5318213689629477550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_137
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 446
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a05a89c49865e0800000000000000
+      internalID: -1916118048116268497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_138
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 456
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6781e3ab7dc04ad0800000000000000
+      internalID: -2719948244017641617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_140
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 330
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dec03d51786a8fe0800000000000000
+      internalID: -1186020715754631469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_141
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 242
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f001816bb7531580800000000000000
+      internalID: -8857639579801288464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_142
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 291
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c5e3a179245980800000000000000
+      internalID: -8551164224411941158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_143
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 294
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75593ddeea3448e80800000000000000
+      internalID: -8177336604804541097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_144
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 242
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a7153f9ddfe9e0800000000000000
+      internalID: -1589808467578215135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_145
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 285
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f3b6ffd46a58a0800000000000000
+      internalID: -6315624614354225283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_146
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 285
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e1ff2fdd8c0e3b0800000000000000
+      internalID: -5485163490547130792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_147
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 242
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca48b42bafd98a0800000000000000
+      internalID: -6296601060315976617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_148
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 277
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ad411fe7e6eb20800000000000000
+      internalID: 3163470802247852947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_149
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 275
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13cb06b3c160fc0800000000000000
+      internalID: -3529102216646610445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_150
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 275
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f5f63589f0bfc60800000000000000
+      internalID: 7852887522159845215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_151
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 253
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778b8112bbb30700800000000000000
+      internalID: 505453956668557171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_152
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 242
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e49b9f79d4c9c70800000000000000
+      internalID: 8979137072194997826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_153
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded3a53a0f2f79c0800000000000000
+      internalID: -3927368629147672868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_154
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 242
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7fdd22d4d67c50800000000000000
+      internalID: 6662746697919068821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_155
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 243
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b26201f1e8cb20800000000000000
+      internalID: 3155019964216423952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_156
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389f3cf2304c64520800000000000000
+      internalID: 2686049745738398083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_157
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ef027547f72980800000000000000
+      internalID: -8563604288783259467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snowdin tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 653
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7fee46509849700800000000000000
+      internalID: 546212111079897081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

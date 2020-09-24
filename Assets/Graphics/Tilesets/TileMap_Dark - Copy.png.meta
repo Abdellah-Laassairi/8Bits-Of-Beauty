@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: dfb05d10fcc4afc46861ba06845c46b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6488649259034112847
+    second: TileMap_Dark - Copy_0
+  - first:
+      213: 8325560227451073302
+    second: TileMap_Dark - Copy_1
+  - first:
+      213: 927258539254153604
+    second: TileMap_Dark - Copy_2
+  - first:
+      213: 8419500902801840354
+    second: TileMap_Dark - Copy_3
+  - first:
+      213: -1453343613945999922
+    second: TileMap_Dark - Copy_4
+  - first:
+      213: -5176266350589597677
+    second: TileMap_Dark - Copy_5
+  - first:
+      213: 734828084462215835
+    second: TileMap_Dark - Copy_6
+  - first:
+      213: -2579486176001752133
+    second: TileMap_Dark - Copy_7
+  - first:
+      213: -1158775591205621106
+    second: TileMap_Dark - Copy_8
+  - first:
+      213: 4086327534824819162
+    second: TileMap_Dark - Copy_9
+  - first:
+      213: 4661428188822229364
+    second: TileMap_Dark - Copy_10
+  - first:
+      213: -4244465023817924229
+    second: TileMap_Dark - Copy_11
+  - first:
+      213: 3557219569230842651
+    second: TileMap_Dark - Copy_12
+  - first:
+      213: -7172159432664147602
+    second: TileMap_Dark - Copy_13
+  - first:
+      213: -166535552042467175
+    second: TileMap_Dark - Copy_14
+  - first:
+      213: 2285776776237512083
+    second: TileMap_Dark - Copy_15
+  - first:
+      213: -5957740189121804094
+    second: TileMap_Dark - Copy_16
+  - first:
+      213: -725255590786562755
+    second: TileMap_Dark - Copy_17
+  - first:
+      213: 262129187761826168
+    second: TileMap_Dark - Copy_18
+  - first:
+      213: -4259297278566823446
+    second: TileMap_Dark - Copy_19
+  - first:
+      213: -3045575662575026183
+    second: TileMap_Dark - Copy_20
+  - first:
+      213: 4764826831507141128
+    second: TileMap_Dark - Copy_21
+  - first:
+      213: -4215494965027193330
+    second: TileMap_Dark - Copy_22
+  - first:
+      213: -226245380563946575
+    second: TileMap_Dark - Copy_23
+  - first:
+      213: 3331495838326006295
+    second: TileMap_Dark - Copy_24
+  - first:
+      213: -376429233334630583
+    second: TileMap_Dark - Copy_25
+  - first:
+      213: 669428423378025199
+    second: TileMap_Dark - Copy_26
+  - first:
+      213: 2913322584318866594
+    second: TileMap_Dark - Copy_27
+  - first:
+      213: -7293027195237233239
+    second: TileMap_Dark - Copy_28
+  - first:
+      213: 7657514906133665508
+    second: TileMap_Dark - Copy_29
+  - first:
+      213: -4476950922823169401
+    second: TileMap_Dark - Copy_30
+  - first:
+      213: -463357915895617712
+    second: TileMap_Dark - Copy_31
+  - first:
+      213: 739536538342108826
+    second: TileMap_Dark - Copy_32
+  - first:
+      213: 7472167041394584248
+    second: TileMap_Dark - Copy_33
+  - first:
+      213: -2458908158013903399
+    second: TileMap_Dark - Copy_34
+  - first:
+      213: -5496955992773695724
+    second: TileMap_Dark - Copy_35
+  - first:
+      213: 2063156685317749897
+    second: TileMap_Dark - Copy_36
+  - first:
+      213: -8332238950222314285
+    second: TileMap_Dark - Copy_37
+  - first:
+      213: 2409106851440785330
+    second: TileMap_Dark - Copy_38
+  - first:
+      213: -5307371044344819161
+    second: TileMap_Dark - Copy_39
+  - first:
+      213: -5089974034030062942
+    second: TileMap_Dark - Copy_40
+  - first:
+      213: 4545202628838652215
+    second: TileMap_Dark - Copy_41
+  - first:
+      213: 2780768979117150061
+    second: TileMap_Dark - Copy_42
+  - first:
+      213: 7942066925777852687
+    second: TileMap_Dark - Copy_43
+  - first:
+      213: -5038021027520875425
+    second: TileMap_Dark - Copy_44
+  - first:
+      213: 2834104762374098996
+    second: TileMap_Dark - Copy_45
+  - first:
+      213: 72762721709067374
+    second: TileMap_Dark - Copy_46
+  - first:
+      213: -6693809248625204283
+    second: TileMap_Dark - Copy_47
+  - first:
+      213: 1721632605964666767
+    second: TileMap_Dark - Copy_48
+  - first:
+      213: 871157055805979807
+    second: TileMap_Dark - Copy_49
+  - first:
+      213: 8196489646986642901
+    second: TileMap_Dark - Copy_50
+  - first:
+      213: -6447102943383210879
+    second: TileMap_Dark - Copy_51
+  - first:
+      213: 4103776081916678426
+    second: TileMap_Dark - Copy_52
+  - first:
+      213: 8691166381655919870
+    second: TileMap_Dark - Copy_53
+  - first:
+      213: -4576648014218683074
+    second: TileMap_Dark - Copy_54
+  - first:
+      213: -5819737984896537284
+    second: TileMap_Dark - Copy_55
+  - first:
+      213: 3187288158846378415
+    second: TileMap_Dark - Copy_56
+  - first:
+      213: 6504579509281671894
+    second: TileMap_Dark - Copy_57
+  - first:
+      213: 881198115136067042
+    second: TileMap_Dark - Copy_58
+  - first:
+      213: 3836185784886205431
+    second: TileMap_Dark - Copy_59
+  - first:
+      213: 6804518126176329631
+    second: TileMap_Dark - Copy_60
+  - first:
+      213: 8312310040350331965
+    second: TileMap_Dark - Copy_61
+  - first:
+      213: 7706004275004844785
+    second: TileMap_Dark - Copy_62
+  - first:
+      213: 634380617127380195
+    second: TileMap_Dark - Copy_63
+  - first:
+      213: -6964878009549152859
+    second: TileMap_Dark - Copy_64
+  - first:
+      213: 1963135866480115647
+    second: TileMap_Dark - Copy_65
+  - first:
+      213: 6885524152287861619
+    second: TileMap_Dark - Copy_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4374dc6f105c0a50800000000000000
+      internalID: 6488649259034112847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61377598ae45a8370800000000000000
+      internalID: 8325560227451073302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48101378ab84edc00800000000000000
+      internalID: 927258539254153604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 274
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89591767318d470800000000000000
+      internalID: 8419500902801840354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 277
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8a2aeeafa4dbe0800000000000000
+      internalID: -1453343613945999922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 277
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ac4edd253a28b0800000000000000
+      internalID: -5176266350589597677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 277
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e951ef32a23a00800000000000000
+      internalID: 734828084462215835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 293
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb382685df2d33cd0800000000000000
+      internalID: -2579486176001752133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 291
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82bbcf3db33befe0800000000000000
+      internalID: -1158775591205621106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9812d1e3d85b830800000000000000
+      internalID: 4086327534824819162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 290
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ddbc8d38b0b040800000000000000
+      internalID: 4661428188822229364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7143c98c81a815c0800000000000000
+      internalID: -4244465023817924229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 132
+        width: 10
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4556366, y: 0.6019251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b821ce958cd5130800000000000000
+      internalID: 3557219569230842651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 274
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691697eefe577c90800000000000000
+      internalID: -7172159432664147602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 274
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990090a3cc850bdf0800000000000000
+      internalID: -166535552042467175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395797f0ed5b8bf10800000000000000
+      internalID: 2285776776237512083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8835b0ddad15da0800000000000000
+      internalID: -5957740189121804094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 276
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350dcbf1ef5fe5f0800000000000000
+      internalID: -725255590786562755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 276
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792ec18b1543a300800000000000000
+      internalID: 262129187761826168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3b19f9ad8f75c0800000000000000
+      internalID: -4215494965027193330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b96b66073cdcf0800000000000000
+      internalID: -226245380563946575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122d1e50d9db3e20800000000000000
+      internalID: 3331495838326006295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 245
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94744005b97a6caf0800000000000000
+      internalID: -376429233334630583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 246
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3ff1ba994a4900800000000000000
+      internalID: 669428423378025199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 246
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4f27a74733e6820800000000000000
+      internalID: 2913322584318866594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0f92f766f9ca90800000000000000
+      internalID: -7293027195237233239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 247
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61b526c35f44a60800000000000000
+      internalID: 7657514906133665508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a84480bdcaed1c0800000000000000
+      internalID: -4476950922823169401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 209
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572d233e62d199f0800000000000000
+      internalID: -463357915895617712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 209
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ead4a309c534a00800000000000000
+      internalID: 739536538342108826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 228
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa4bcb55872b760800000000000000
+      internalID: 7472167041394584248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6542ee0430edd0800000000000000
+      internalID: -2458908158013903399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 243
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417e4c016a3e6b3b0800000000000000
+      internalID: -5496955992773695724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 241
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3650031ec1ac10800000000000000
+      internalID: 2063156685317749897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4435422d0fd5c80800000000000000
+      internalID: -8332238950222314285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 228
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7761adaedde6120800000000000000
+      internalID: 2409106851440785330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72212a2a72e6856b0800000000000000
+      internalID: -5307371044344819161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 211
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21da97597cc59b0800000000000000
+      internalID: -5089974034030062942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 217
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739791c95bdc31f30800000000000000
+      internalID: 4545202628838652215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f04b247a6479620800000000000000
+      internalID: 2780768979117150061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091e554ac3e73e60800000000000000
+      internalID: 7942066925777852687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 228
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547bab619a551ab0800000000000000
+      internalID: -5038021027520875425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301d810443c45720800000000000000
+      internalID: 2834104762374098996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0c545f41820100800000000000000
+      internalID: 72762721709067374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3687524ffca13a0800000000000000
+      internalID: -6693809248625204283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870148cbb774e710800000000000000
+      internalID: 1721632605964666767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 162
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf3e60ab8f61c00800000000000000
+      internalID: 871157055805979807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 180
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b44df70a4786a0800000000000000
+      internalID: -6447102943383210879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 180
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1153609a9a83f830800000000000000
+      internalID: 4103776081916678426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0b6eb6c93d9870800000000000000
+      internalID: 8691166381655919870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 114
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9f7211ea7c70c0800000000000000
+      internalID: -4576648014218683074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 132
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de46413232c3fa0800000000000000
+      internalID: -5819737984896537284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 132
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1e8d881b58b3c20800000000000000
+      internalID: 3187288158846378415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 132
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac408d998e44a50800000000000000
+      internalID: 6504579509281671894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d349ef1f0f14b5370800000000000000
+      internalID: 8312310040350331965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa2e495f0a31fa60800000000000000
+      internalID: 7706004275004844785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 66
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e445486fc5cdc800800000000000000
+      internalID: 634380617127380195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad94e01a58c75f90800000000000000
+      internalID: -6964878009549152859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 19
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf306f5ba57e3b10800000000000000
+      internalID: 1963135866480115647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Dark - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 18
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b9d754cbb4e8f50800000000000000
+      internalID: 6885524152287861619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
