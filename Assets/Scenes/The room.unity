@@ -19959,7 +19959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sentences:
-  - '  this holds something pretty inside'
+  - ' the letters "GI16" are carverd on the wood, i wonder what do they mean?'
   - draw
 --- !u!1 &1538876158
 GameObject:
