@@ -19816,7 +19816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sentences:
-  - ' I sleep here i guess'
+  - ' Please help! I got teleported into the universe of an abandoned side project'
 --- !u!50 &1248950790
 Rigidbody2D:
   serializedVersion: 4
@@ -20145,7 +20145,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sentences:
-  - ' Oh a radio! But It doesn''t seem like it''s working at all'
+  - ' Call the cops or something, this dusty ass code isn''t commented, and there
+    are bugs everywhere, I even got stuck inside a wall :('
 --- !u!1001 &1672902426078435997
 PrefabInstance:
   m_ObjectHideFlags: 0
